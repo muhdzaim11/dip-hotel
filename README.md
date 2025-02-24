@@ -1,1 +1,1 @@
-HOTEL
+dip-hotel
